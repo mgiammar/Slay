@@ -1,0 +1,67 @@
+{
+    "pesant": {
+        "name": "Pesant",
+        "cost": 2,
+        "wage": 2,
+        "strength": 1,
+        "movable": true,
+        "inactive-img-path": "",
+        "active-img-path": ""
+    },
+    "spearman": {
+        "name": "Spearman",
+        "wage": 6,
+        "strength": 2,
+        "movable": true,
+        "inactive-img-path": "",
+        "active-img-path": ""
+    },
+    "knight": {
+        "name": "Knight",
+        "wage": 18,
+        "strength": 3,
+        "movable": true,
+        "inactive-img-path": "",
+        "active-img-path": ""
+    },
+    "barron": {
+        "name": "Barron",
+        "wage": 54,
+        "strength": 4,
+        "movable": true,
+        "inactive-img-path": "",
+        "active-img-path": ""
+    },
+    "capital": {
+        "name": "Capital",
+        "strength": 1,
+        "movable": false,
+        "inactive-img-path": "",
+        "active-img-path": ""
+    },
+    "castle": {
+        "name": "Castle",
+        "cost": 15,
+        "strength": 2,
+        "movable": false,
+        "inactive-img-path": ""
+    },
+    "pine_tree": {
+        "name": "Pine Tree",
+        "strength": 0,
+        "movable": false,
+        "inactive-img-path": ""
+    },
+    "palm_tree": {
+        "name": "Palm Tree",
+        "strength": 0,
+        "movable": false,
+        "inactive-img-path": ""
+    },
+    "gravestone": {
+        "name": "Gravestone",
+        "strength": 0,
+        "movable": false,
+        "inactive-img-path": ""
+    }
+}
